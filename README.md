@@ -1,5 +1,5 @@
 # My-Chat
-typescript react web chat
+Typescript React chat app
 
 ![chat active](https://user-images.githubusercontent.com/41620574/43133549-d796bed0-8f47-11e8-8624-ca79a1256a0f.png)
 ![chat join group](https://user-images.githubusercontent.com/41620574/43133550-d7b847d0-8f47-11e8-83be-5f78aa46456c.png)
